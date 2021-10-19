@@ -1,0 +1,22 @@
+#camas .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 65px;}
+
+
+
+#camas article {
+    margin: 15px;}
+
+
+
+#camas img {
+    width: 400px;
+    max-width: 370px;}
+
+
+
+#camas h4 {
+    text-align: center;}
+
